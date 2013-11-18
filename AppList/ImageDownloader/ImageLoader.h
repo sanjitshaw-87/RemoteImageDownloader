@@ -2,8 +2,8 @@
 //  ImageLoader.h
 //  SaveImageForOfflineUsage
 //
-//  Created by Betrand Yella on 06/09/12.
-//  Copyright (c) 2012 betrand@ibeesolutions.com. All rights reserved.
+//  Created by sanjit_s on 03/07/13.
+//  Copyright (c) 2013 sanjit_s. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
